@@ -1,2 +1,3 @@
 just simple text file
 Another line
+Another line2
